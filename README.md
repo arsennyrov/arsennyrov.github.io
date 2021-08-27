@@ -9,7 +9,7 @@
 Представляю несколько своих учебных примеров:
 
 1. Учебный пример по верстке классического лендинга на чистом HTML и CSS
-        <br>  (<b>Демо:</b> https://arsennyrov.github.io/1_uber)
+        <br>  <b>Демо:</b> [https://arsennyrov.github.io/1_uber/](https://arsennyrov.github.io/1_uber/)
 
 2. КиноМонстр - еще один учебный пример по верстке на чистом HTML и CSS
         <br>  (<b>Демо:</b> https://arsennyrov.github.io/2_kinomonster)
