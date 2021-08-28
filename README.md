@@ -39,7 +39,7 @@ Portfolio
 7_Справочник по сериалу "Игра престолов" - реализовано на React. Показано структурирование проекта, взаимодействие с сервером, использование регулярного выражения.
 [https://github.com/arsennyrov/arsennyrov.github.io/tree/main/7_game_of_thrones](https://github.com/arsennyrov/arsennyrov.github.io/tree/main/7_game_of_thrones)
 
-8_Проект на React - справочник по сериалу "Звездные войны". Аналогичен примеру 6, но добавлена работа с изображениями.
+8_Справочник по сериалу "Звездные войны". Аналогичен примеру 6, но добавлена работа с изображениями.
 [https://github.com/arsennyrov/arsennyrov.github.io/tree/main/8_star_db](https://github.com/arsennyrov/arsennyrov.github.io/tree/main/8_star_db)
 
 9_Проект на React по фильмам и сериалам - показана организация поиска во взамодействии с сервером.
