@@ -11,7 +11,7 @@ Portfolio
 Программированием занимался 15 лет, 2 года - установкой и сопровождением сайтов на WordPress.
 Представляю несколько своих учебных примеров:
 
-1. Демонстрационный пример классического лендинга на чистом HTML и CSS
+1. Демонстрационный пример классического лендинга. Реализован на НTML и CSS с использованием библиотеки bootstrap.
    <br> <b>Демо:</b> [https://arsennyrov.github.io/1_uber/](https://arsennyrov.github.io/1_uber/)
 
 2. КиноМонстр - еще один демонстрационный пример по верстке на чистом HTML и CSS
@@ -31,7 +31,7 @@ Portfolio
    <br> <b>Демо:</b> [https://arsennyrov.github.io/5_kекstagram/](https://arsennyrov.github.io/5_kекstagram/)
 
 <hr><i>             
-Для запуска последующих проектов на <b>React</b> необходимо клонировать папку с проектом из репозитория ([https://github.com/arsennyrov/arsennyrov.github.io/](https://github.com/arsennyrov/arsennyrov.github.io/)) на свой компьютер
+Для запуска последующих проектов на <b>React</b> необходимо клонировать соответствующую папку с проектом из репозитория ([https://github.com/arsennyrov/arsennyrov.github.io/](https://github.com/arsennyrov/arsennyrov.github.io/)) на свой компьютер
 и выполнить в этой папке следующие команды (при установленном <b>node.js</b>) </i>
 
           npm install
@@ -39,7 +39,7 @@ Portfolio
 
 <hr>
 6. Традиционный учебный пример на React - TODO - Список текущих дел.
-   [https://github.com/arsennyrov/arsennyrov.github.io/6_todo/](https://github.com/arsennyrov/arsennyrov.github.io/6_todo/)
+   [https://github.com/arsennyrov.github.io/6_todo/](https://github.com/arsennyrov.github.io/6_todo/)
 
 7. Небольшой справочник по сериалу "Игра престолов" - реализовано на React. Показано структурирование проекта, взаимодействие с сервером, использование регулярного выражения.
 
