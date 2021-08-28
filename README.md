@@ -1,29 +1,42 @@
+# arsennyrov.github.io
+
+Portfolio
+
 # [https://arsennyrov.github.io](httssh-ps://arsennyrov.github.io)
 
 Ныров Арсен ([https://github.com/arsennyrov](https://github.com/arsennyrov))
 
 Портфолио:
 
-Долгое время работал программистом, системным администратором.
-Программировал в основном на Visual Foxpro, PHP, SQL, Java (для Android).
-Прошел курсы по HTML+CSS, JavaScript, React, Redux.
+Раньше программировал на VisualFoxpro, PHP + SQL, JAVA(для Андроид),
+Теперь прошел курсы и начал по HTML+CSS, JavaScript, React, Redux.
 Представляю несколько своих учебных примеров:
 
 1. Учебный пример по верстке классического лендинга на чистом HTML и CSS
-   (Демо: https://arsennyrov.github.io/1_uber)
+   <br> <b>Демо:</b> [https://arsennyrov.github.io/1_uber/](https://arsennyrov.github.io/1_uber/)
 
 2. КиноМонстр - еще один учебный пример по верстке на чистом HTML и CSS
-3. Простейший калькулятор на чистом JavaScript.
-   Хорошее задание на начальном этапе обучения JavaScript ввиду простоты и естественности постановки задачи (Демо: https://arsennyrov.github.io/3_calculator/index.html)
-
+   <br> <b>Демо:</b> [https://arsennyrov.github.io/2_kinomonster/](https://arsennyrov.github.io/2_kinomonster/)
+3. Калькулятор на чистом JavaScript.
+   <br> <b>Демо:</b> [https://arsennyrov.github.io/3_calculator/](https://arsennyrov.github.io/3_calculator/)
 4. Йога - классический лендинг на JavaScript
    cо слайдером, таймером обратного отсчета,
    работой с формами и небольшим калькулятором.
-   (Демо: https://arsennyrov.github.io/4_yoga)
+   <br> <b>Демо:</b> [https://arsennyrov.github.io/4_yoga/](https://arsennyrov.github.io/4_yoga/)
 
 5. Кекстаграм - учебый проект, реализован на HTML+CSS и JavaScript.
    Данные загружаются с сервера через AJAX, а также со своего диска средствами JavaScript. Реализовано применение различных эффектов к фотографиям.
    Используется регулярное выражение.
+   <br> <b>Демо:</b> [https://arsennyrov.github.io/5_kекstagram/](https://arsennyrov.github.io/5_kекstagram/)
+
+<hr><i>             
+Для запуска последующих проектов на <b>React</b> необходимо клонировать папку с проектом из репозитория на свой компьютер 
+и выполнить в этой папке следующие команды (при установленном <b>node.js</b>): </i>
+
+          npm install
+          npm start
+
+<hr>
 
 6. Традиционный учебный пример на React - TODO - Список текуших дел.
    Реализован на чистом React.
@@ -37,10 +50,10 @@
 9. Учебный проект на React по фильмам и сериалам.
    Отрабатывается организация поиска во взамодействии с сервером.
 
-10. Кекстаграм - учебный проект сделан на чистом React.
+10. Кекстаграм - проект сделан на чистом React.
     При сравнении кода на React с кодом на JavaScript пункта 5 наглядно видно
     преимущества React в лаконичности, прозрачности структуры, передаче данных, обработке событий.
-    Приложение на React написан в разы быстрее, чем на чистом JavaScript.
+    Приложение на React написано в разы быстрее, чем на чистом JavaScript.
 
 11. YTS-Movies - Учебный проект на React по работе с формами,
-    пагинацией и взаимодействия с сервером. Работа над проектом продолжается.
+    пагинацией и взаимодействия с сервером.
