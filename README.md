@@ -31,7 +31,7 @@ Portfolio
    <br> <b>Демо:</b> [https://arsennyrov.github.io/5_kекstagram/](https://arsennyrov.github.io/5_kекstagram/)
 
 <hr><i>             
-Для запуска последующих проектов на <b>React</b> необходимо клонировать папку с проектом из репозитория на свой компьютер
+Для запуска последующих проектов на <b>React</b> необходимо клонировать папку с проектом из репозитория [https://arsennyrov.github.io](httssh-ps://arsennyrov.github.io) на свой компьютер
 и выполнить в этой папке следующие команды (при установленном <b>node.js</b>): </i>
 
           npm install
