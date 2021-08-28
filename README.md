@@ -17,8 +17,11 @@ Portfolio
 
 2. КиноМонстр - еще один учебный пример по верстке на чистом HTML и CSS
    <br> <b>Демо:</b> [https://arsennyrov.github.io/2_kinomonster/](https://arsennyrov.github.io/2_kinomonster/)
+
 3. Калькулятор на чистом JavaScript.
-   <br> <b>Демо:</b> [https://arsennyrov.github.io/3_calculator/](https://arsennyrov.github.io/3_calculator/)
+
+    <br> <b>Демо:</b> [https://arsennyrov.github.io/3_calculator/](https://arsennyrov.github.io/3_calculator/)
+
 4. Йога - классический лендинг на JavaScript
    cо слайдером, таймером обратного отсчета,
    работой с формами и небольшим калькулятором.
@@ -30,7 +33,8 @@ Portfolio
    <br> <b>Демо:</b> [https://arsennyrov.github.io/5_kекstagram/](https://arsennyrov.github.io/5_kекstagram/)
 
 <hr><i>             
-Для запуска последующих проектов на <b>React</b> необходимо клонировать папку с проектом из репозитория на свой компьютер 
+Для запуска последующих проектов на <b>React</b> необходимо клонировать папку с проектом из репозитория на свой компьютер
+
 и выполнить в этой папке следующие команды (при установленном <b>node.js</b>): </i>
 
           npm install
