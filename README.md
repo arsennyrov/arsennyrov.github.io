@@ -39,7 +39,7 @@ Portfolio
 
 <hr>
 6. Традиционный учебный пример на React - TODO - Список текущих дел.
-[https://arsennyrov.github.io/6_todo/](https://arsennyrov.github.io/6_todo/)
+[https://github.com/arsennyrov/arsennyrov.github.io/tree/main/6_todo](https://github.com/arsennyrov/arsennyrov.github.io/tree/main/6_todo)
    
 7. Справочник по сериалу "Игра престолов" - реализовано на React. Показано структурирование проекта, взаимодействие с сервером, использование регулярного выражения.
 
