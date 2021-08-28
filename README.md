@@ -6,7 +6,7 @@ Portfolio
 
 Ныров Арсен ([https://github.com/arsennyrov](https://github.com/arsennyrov))
 
-2 года занимался установкой и сопровождением сайтов на WordPress, попутно изучая верстку и программирование на JavaScript и React. Представляю несколько своих примеров:
+2 года занимался настройкой и сопровождением сайтов на WordPress, попутно изучая верстку и программирование на JavaScript и React. Представляю несколько своих примеров:
 
 1. Демонстрационный пример классического лендинга. Реализован на НTML и CSS с использованием библиотеки bootstrap.
    <br> <b>Демо:</b> [https://arsennyrov.github.io/1_uber/](https://arsennyrov.github.io/1_uber/)
