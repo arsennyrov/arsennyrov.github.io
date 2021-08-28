@@ -22,7 +22,7 @@ cо слайдером, таймером обратного отсчета,
 работой с формами и кастомным калькулятором.
 <br> <b>Демо:</b> [https://arsennyrov.github.io/4_yoga/](https://arsennyrov.github.io/4_yoga/)
 
-5.Кекстаграм - просмотр фотографий, реализован на HTML+CSS и JavaScript.
+5.Кекстаграм - просмотр и обработка фотографий, реализован на HTML+CSS и JavaScript.
 Данные загружаются с сервера через AJAX, а также со своего диска средствами JavaScript. Реализовано применение различных эффектов к фотографиям. Используются регулярные выражения.
 <br> <b>Демо:</b> [https://arsennyrov.github.io/5_kекstagram/](https://arsennyrov.github.io/5_kекstagram/)
 
@@ -35,7 +35,7 @@ cо слайдером, таймером обратного отсчета,
 6.Традиционный учебный пример на React - TODO - Список текущих дел.
 [https://github.com/arsennyrov/arsennyrov.github.io/tree/main/6_todo](https://github.com/arsennyrov/arsennyrov.github.io/tree/main/6_todo)
    
-7.Справочник по сериалу "Игра престолов" - реализовано на React. Показано структурирование проекта, взаимодействие с сервером, использование регулярных выражений.
+7.Справочник по сериалу "Игра престолов" - реализован на React. Показано структурирование проекта, взаимодействие с сервером, использование регулярных выражений.
 [https://github.com/arsennyrov/arsennyrov.github.io/tree/main/7_game_of_thrones](https://github.com/arsennyrov/arsennyrov.github.io/tree/main/7_game_of_thrones)
 
 8.Справочник по сериалу "Звездные войны". Аналогичен примеру 6, но добавлена работа с изображениями.
@@ -44,7 +44,7 @@ cо слайдером, таймером обратного отсчета,
 9.Проект на React по фильмам и сериалам - показана организация поиска во взамодействии с сервером.
 [https://github.com/arsennyrov/arsennyrov.github.io/tree/main/9_react_movies](https://github.com/arsennyrov/arsennyrov.github.io/tree/main/9_react_movies)
 
-10.Кекстаграм - просмотр фотографий - выполен на React.
+10.Кекстаграм - просмотр и обработка фотографий - выполен на React.
 При сравнении кодов на React и на JavaScript (пункта 5) наглядно видно
 преимущества React в лаконичности, прозрачности структуры, передаче данных, обработке событий.
 Причем приложение на React написано в разы быстрее, чем на чистом JavaScript.
