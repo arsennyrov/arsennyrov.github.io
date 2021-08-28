@@ -33,8 +33,9 @@ cо слайдером, таймером обратного отсчета,
 
 <hr>
 6.Традиционный учебный пример на React - TODO - Список текущих дел.
+
 [https://github.com/arsennyrov/arsennyrov.github.io/tree/main/6_todo](https://github.com/arsennyrov/arsennyrov.github.io/tree/main/6_todo)
-   
+
 7.Справочник по сериалу "Игра престолов" - реализован на React. Показано структурирование проекта, взаимодействие с сервером, использование регулярных выражений.
 [https://github.com/arsennyrov/arsennyrov.github.io/tree/main/7_game_of_thrones](https://github.com/arsennyrov/arsennyrov.github.io/tree/main/7_game_of_thrones)
 
