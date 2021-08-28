@@ -27,8 +27,7 @@ Portfolio
    Используется регулярное выражение.
    <br> <b>Демо:</b> [https://arsennyrov.github.io/5_kекstagram/](https://arsennyrov.github.io/5_kекstagram/)
 
-<hr><i>             
-Для запуска последующих проектов на <b>React</b> необходимо клонировать соответствующую папку с проектом из указанного репозитория на свой компьютер и выполнить в этой папке следующие команды (при установленном <b>node.js</b>) </i>
+<hr><i>Для запуска последующих проектов на <b>React</b> необходимо клонировать соответствующую папку с проектом из указанного репозитория на свой компьютер и выполнить в этой папке следующие команды (при установленном <b>node.js</b>) </i>
 
           npm install
           npm start
@@ -47,9 +46,9 @@ Portfolio
 [https://github.com/arsennyrov/arsennyrov.github.io/tree/main/9_react_movies](https://github.com/arsennyrov/arsennyrov.github.io/tree/main/9_react_movies)
 
 10_Кекстаграм - просмотр фотографий - выполен на React.
-При сравнении кода на React с кодом на JavaScript пункта 5 наглядно видно
+При сравнении кодов на React и на JavaScript (пункта 5) наглядно видно
 преимущества React в лаконичности, прозрачности структуры, передаче данных, обработке событий.
-Приложение на React написано в несколько раз быстрее, чем на чистом JavaScript.
+Причем приложение на React написано в разы быстрее, чем на чистом JavaScript.
 [https://github.com/arsennyrov/arsennyrov.github.io/tree/main/10_kekstagram_react](https://github.com/arsennyrov/arsennyrov.github.io/tree/main/10_kekstagram_react)
 
 11_YTS-Movies - проект на React. Представлены работа с формами,
