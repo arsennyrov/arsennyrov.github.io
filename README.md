@@ -6,10 +6,7 @@ Portfolio
 
 Ныров Арсен ([https://github.com/arsennyrov](https://github.com/arsennyrov))
 
-Портфолио:
-
-Программированием занимался 15 лет, 2 года - установкой и сопровождением сайтов на WordPress.
-Представляю несколько своих примеров:
+2 года занимался установкой и сопровождением сайтов на WordPress, попутно изучая верстку и программирование на JavaScript и React. Представляю несколько своих примеров:
 
 1. Демонстрационный пример классического лендинга. Реализован на НTML и CSS с использованием библиотеки bootstrap.
    <br> <b>Демо:</b> [https://arsennyrov.github.io/1_uber/](https://arsennyrov.github.io/1_uber/)
@@ -31,8 +28,7 @@ Portfolio
    <br> <b>Демо:</b> [https://arsennyrov.github.io/5_kекstagram/](https://arsennyrov.github.io/5_kекstagram/)
 
 <hr><i>             
-Для запуска последующих проектов на <b>React</b> необходимо клонировать соответствующую папку с проектом из репозитория ([https://github.com/arsennyrov/arsennyrov.github.io/](https://github.com/arsennyrov/arsennyrov.github.io/)) на свой компьютер
-и выполнить в этой папке следующие команды (при установленном <b>node.js</b>) </i>
+Для запуска последующих проектов на <b>React</b> необходимо клонировать соответствующую папку с проектом из указанного репозитория на свой компьютер и выполнить в этой папке следующие команды (при установленном <b>node.js</b>) </i>
 
           npm install
           npm start
