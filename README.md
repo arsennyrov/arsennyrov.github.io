@@ -42,15 +42,20 @@ Portfolio
 [https://github.com/arsennyrov/arsennyrov.github.io/tree/main/6_todo](https://github.com/arsennyrov/arsennyrov.github.io/tree/main/6_todo)
    
 7. Справочник по сериалу "Игра престолов" - реализовано на React. Показано структурирование проекта, взаимодействие с сервером, использование регулярного выражения.
+[https://github.com/arsennyrov/arsennyrov.github.io/tree/main/7_game_of_thrones](https://github.com/arsennyrov/arsennyrov.github.io/tree/main/7_game_of_thrones)
 
 8. Проект на React - справочник по сериалу "Звездные войны". Аналогичен примеру 6, но добавляется работа с изображениями.
+   [https://github.com/arsennyrov/arsennyrov.github.io/tree/main/8_star_db](https://github.com/arsennyrov/arsennyrov.github.io/tree/main/8_star_db)
 
 9. Проект на React по фильмам и сериалам - показана организация поиска во взамодействии с сервером.
+   [https://github.com/arsennyrov/arsennyrov.github.io/tree/main/9_react_movies](https://github.com/arsennyrov/arsennyrov.github.io/tree/main/9_react_movies)
 
 10. Кекстаграм - проект на React.
     При сравнении кода на React с кодом на JavaScript пункта 5 наглядно видно
     преимущества React в лаконичности, прозрачности структуры, передаче данных, обработке событий.
     Приложение на React написано в разы быстрее, чем на чистом JavaScript.
+    [https://github.com/arsennyrov/arsennyrov.github.io/tree/main/10_kekstagram_react](https://github.com/arsennyrov/arsennyrov.github.io/tree/main/10_kekstagram_react)
 
 11. YTS-Movies - проект на React. Представлены работа с формами,
     пагинацией, взаимодействие с сервером.
+    [https://github.com/arsennyrov/arsennyrov.github.io/tree/main/11_yts_movies](https://github.com/arsennyrov/arsennyrov.github.io/tree/main/11_yts_movies)
