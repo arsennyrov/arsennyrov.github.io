@@ -15,17 +15,16 @@ Portfolio
 
 <hr>
 1.Калькулятор на чистом JavaScript.
-<br>  [https://github.com/arsennyrov/calc](https://github.com/arsennyrov/calc)
 <br> <a href="https://github.com/arsennyrov/calc"><b>Проект:</a>
 <br> <a href="https://arsennyrov.github.io/calc"><b>Посмотреть</b></a>
 <br><br>
 2.Демонстрационный пример классического лендинга. Реализован на НTML и CSS с использованием библиотеки bootstrap.
-<br> <b>Проект:</b> https://github.com/arsennyrov/uber
-<br> <b>Демо:</b> [https://arsennyrov.github.io/uber/]
+<br> <a href="https://github.com/arsennyrov/uber"><b>Проект:</a>
+<br> <a href="https://arsennyrov.github.io/uber"><b>Посмотреть</b></a>
 <br><br>
 3.КиноМонстр - еще один демонстрационный пример по верстке на чистом HTML и CSS.
-<br> <b>Проект:</b> [https://github.com/arsennyrov/kino-mon]
-<br> <b>Демо:</b> [https://arsennyrov.github.io/kino-mon/]
+<br> <a href="https://github.com/arsennyrov/kino-mon"><b>Проект:</a>
+<br> <a href="https://arsennyrov.github.io/kino-mon"><b>Посмотреть</b></a>
 <br><br>
 4.Йога - классический лендинг на JavaScript
 cо слайдером, таймером обратного отсчета,
