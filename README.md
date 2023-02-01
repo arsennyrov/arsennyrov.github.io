@@ -15,26 +15,27 @@ Portfolio
 
 <hr>
 1.Калькулятор на чистом JavaScript.
-<br> <a href="https://github.com/arsennyrov/calc"><b>Проект </a>
+<br> <a href="https://github.com/arsennyrov/calc"><b>Проект </a> &nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://arsennyrov.github.io/calc"><b>Демонстрация</b></a>
 <br><br>
 2.Демонстрационный пример классического лендинга. Реализован на НTML и CSS с использованием библиотеки bootstrap.
-<br> <a href="https://github.com/arsennyrov/uber"><b>Проект:</a>
+<br> <a href="https://github.com/arsennyrov/uber"><b>Проект</a> &nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://arsennyrov.github.io/uber"><b>Демонстрация</b></a>
 <br><br>
 3.КиноМонстр - еще один демонстрационный пример по верстке на чистом HTML и CSS.
-<br> <a href="https://github.com/arsennyrov/kino-mon"><b>Проект:</a>
+<br> <a href="https://github.com/arsennyrov/kino-mon"><b>Проект</a> &nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://arsennyrov.github.io/kino-mon"><b>Демонстрация</b></a>
 <br><br>
 4.Йога - классический лендинг на JavaScript
 cо слайдером, таймером обратного отсчета,
 работой с формами и кастомным калькулятором.
-<br> <a href="https://github.com/arsennyrov/yoga"><b>Проект:</a>
+<br> <a href="https://github.com/arsennyrov/yoga"><b>Проект</a> &nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://arsennyrov.github.io/yoga"><b>Демонстрация</b></a>  
 <br><br>
 5.Кекстаграм - просмотр и обработка фотографий, реализован на HTML+CSS и JavaScript.
-Данные загружаются с сервера через AJAX, а также со своего диска средствами JavaScript. Реализовано применение различных эффектов к фотографиям. Используются регулярные выражения.
-<br> <a href="https://github.com/arsennyrov/kekstagram"><b>Проект:</a>
+Данные загружаются с сервера через AJAX, а также со своего диска средствами JavaScript. 
+Реализовано применение различных эффектов к фотографиям. Используются регулярные выражения.
+<br> <a href="https://github.com/arsennyrov/kekstagram"><b>Проект</a> &nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://arsennyrov.github.io/kekstagram"><b>Демонстрация</b></a>
 
 <hr><b> REACT </b><hr>
