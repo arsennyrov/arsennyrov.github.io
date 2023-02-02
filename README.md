@@ -1,17 +1,17 @@
 <b><br>Portfolio
 <br> <h1>Ныров Арсен<h1>
-</b><br>
+</b>
 
-<h3>Три года назад начал активно изучать фронтэнд. Больше года работал на фрилансе.
+<h4>Три года назад начал активно изучать фронтэнд. Больше года работал на фрилансе.
 Полтора года работал фронтэнд-разрабочиком в различных компаниях.
-Представляю несколько простых своих примеров: </h3>
+Представляю несколько простых своих примеров: </h4>
 
 <hr><b> JAVASCRIPT </b>
 
 <hr>
 1.Калькулятор на чистом JavaScript.
-<br> <b> <a href="https://github.com/arsennyrov/calculator"> Проект </a> | 
-<a href="https://arsennyrov.github.io/calculator/"> Демонстрация </a></b>
+<br> <h5> <a href="https://github.com/arsennyrov/calculator"> Проект </a> | 
+<a href="https://arsennyrov.github.io/calculator/"> Демонстрация </a></h5>
 <br><br>
 2.Демонстрационный пример классического лендинга. Реализован на НTML и CSS с использованием библиотеки bootstrap.
 <br> <b> <a href="https://github.com/arsennyrov/uber"> Проект </a> | 
