@@ -15,7 +15,7 @@ Portfolio
 
 <hr>
 1.Калькулятор на чистом JavaScript.
-<br> <a href="https://github.com/arsennyrov/calculator"><b>Проект</a> _ _ _ _ _ _  
+<br> <a href="https://github.com/arsennyrov/calculator"><b>Проект _ _ _ _ _ _  
 <a href="https://arsennyrov.github.io/calculator"><b>Демонстрация</b></a>
 <br><br>
 2.Демонстрационный пример классического лендинга. Реализован на НTML и CSS с использованием библиотеки bootstrap.
