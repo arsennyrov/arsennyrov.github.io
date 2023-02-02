@@ -19,11 +19,11 @@ Portfolio
 <a href="https://arsennyrov.github.io/calculator"><b>Демонстрация</b></a>
 <br><br>
 2.Демонстрационный пример классического лендинга. Реализован на НTML и CSS с использованием библиотеки bootstrap.
-<br> <a href="https://github.com/arsennyrov/uber"><b>Проект</a> _ _ _ _ _ _
+<br> <a href="https://github.com/arsennyrov/uber"><b>Проект _ _ _ _ _ _
 <a href="https://arsennyrov.github.io/uber"><b>Демонстрация</b></a>
 <br><br>
 3.КиноМонстр - еще один демонстрационный пример по верстке на чистом HTML и CSS.
-<br> <a href="https://github.com/arsennyrov/kino-mon"><b>Проект</a> _ _ _ _ _ _ 
+<br> <a href="https://github.com/arsennyrov/kino-mon"><b>Проект _ _ _ _ _ _ 
 <a href="https://arsennyrov.github.io/kino-mon"><b>Демонстрация</b></a>
 <br><br>
 4.Йога - классический лендинг на JavaScript
