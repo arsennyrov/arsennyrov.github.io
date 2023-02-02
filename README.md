@@ -29,7 +29,7 @@ cо слайдером, таймером обратного отсчета,
 Реализовано применение различных эффектов к фотографиям. Используются регулярные выражения.
 <br> <b> <a href="https://github.com/arsennyrov/kekstagram"> Проект </a> | 
 <a href="https://arsennyrov.github.io/kekstagram/"> Демонстрация  </a></b>
-<hr>
+<br><hr>
 <h2> Проекты на REACT </h2>
 <hr>  
 6.Реализован Square tree шаблон.
