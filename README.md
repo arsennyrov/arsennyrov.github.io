@@ -23,7 +23,7 @@ Portfolio
 <a href="https://arsennyrov.github.io/uber"> </a>
 <br><br>
 3.КиноМонстр - еще один демонстрационный пример по верстке на чистом HTML и CSS.
-<br> <a href="https://github.com/arsennyrov/kino-mon"><b> </a> <b>Проект | Демонстрация</b>
+<br> <a href="https://github.com/arsennyrov/kino-mon"> </a> <b>Проект | Демонстрация</b>
 <a href="https://arsennyrov.github.io/kino-mon"> </a>
 <br><br>
 4.Йога - классический лендинг на JavaScript
