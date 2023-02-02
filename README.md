@@ -42,6 +42,8 @@ cо слайдером, таймером обратного отсчета,
 <a href="https://arsennyrov.github.io/text-control/"> Демонстрация  </a></b>
 <br><br>
 8.Демонстрация различных графиков с эементами редактирования; описание - в README.md проекта.
+<br> <b> <a href="https://github.com/arsennyrov/viewer-charts"> Проект </a> | 
+<a href="https://arsennyrov.github.io/viewer-charts/"> Демонстрация  </a></b>
 <br><br>
 9.Проект интернет-магазина на React и Redux.
 <br><br>
