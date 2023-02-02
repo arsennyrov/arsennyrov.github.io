@@ -46,8 +46,8 @@ cо слайдером, таймером обратного отсчета,
 <a href="https://arsennyrov.github.io/mosaic"> </a>
 <br><br>
 7.Два текстовых контрола на Typescript, React и Mobx; описание - в README/md проекта.
-<br> <a href="https://github.com/arsennyrov/text-control"> </a> <b>Проект | Демонстрация</b>
-<a href="https://arsennyrov.github.io/text-control/"> </a>
+<br> <b> <a href="https://github.com/arsennyrov/text-control"> Проект </a> | 
+<a href="https://arsennyrov.github.io/text-control/"> Демонстрация </b> </a>
 <br><br>
 8.Демонстрация различных графиков с эементами редактирования; описание - в README.md проекта.
 <br><br>
