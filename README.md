@@ -29,7 +29,7 @@ Portfolio
 4.Йога - классический лендинг на JavaScript
 cо слайдером, таймером обратного отсчета,
 работой с формами и кастомным калькулятором.
-<br> <a href="https://github.com/arsennyrov/yoga"><b>Проект</a> _ _ _ _ _ _ 
+<br> <a href="https://github.com/arsennyrov/yoga"><b>Проект _ _ _ _ _ _ 
 <a href="https://arsennyrov.github.io/yoga"><b>Демонстрация</b></a>  
 <br><br>
 5.Кекстаграм - просмотр и обработка фотографий, реализован на HTML+CSS и JavaScript.
