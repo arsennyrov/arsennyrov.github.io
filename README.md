@@ -35,7 +35,7 @@ cо слайдером, таймером обратного отсчета,
 6.Реализован Square tree шаблон.
 Задаются через запятую до восьми целых положительных чисел. Внешний прямоугольник рекурсивно разбивается на прямоуголники, площади которых пропорциональны указанным числам. При изменении размеров окна пропорции сохраняются. 
 <br> <b> <a href="https://github.com/arsennyrov/mosaic"> Проект </a> | 
-<a href="https://arsennyrov.github.io/mosaic/"> Демонстрация </b> </a>
+<a href="https://arsennyrov.github.io/mosaic/"> Демонстрация  </a></b>
 <br><br>
 7.Два текстовых контрола на Typescript, React и Mobx; описание - в README/md проекта.
 <br> <b> <a href="https://github.com/arsennyrov/text-control"> Проект </a> | 
