@@ -48,6 +48,7 @@ cо слайдером, таймером обратного отсчета,
 9.Навороченный Список текущих дел - учебный пример на React с использованием библиотеки Tailwind.
 <br> <b> <a href="https://github.com/arsennyrov/todos"> Проект </a> | 
 <a href="https://arsennyrov.github.io/todos/"> Демонстрация  </a></b>
+<br><br>  
 10.Проект интернет-магазина на React и Redux.
 <br> <b> <a href="https://github.com/arsennyrov/internet-shop"> Проект </a></b> 
 <br><br>
