@@ -35,7 +35,7 @@ cо слайдером, таймером обратного отсчета,
 5.Кекстаграм - просмотр и обработка фотографий, реализован на HTML+CSS и JavaScript.
 Данные загружаются с сервера через AJAX, а также со своего диска средствами JavaScript. 
 Реализовано применение различных эффектов к фотографиям. Используются регулярные выражения.
-<br> <a href="https://github.com/arsennyrov/kekstagram"><b>Проект</a> _ _ _ _ _ _ 
+<br> <a href="https://github.com/arsennyrov/kekstagram"><b>Проект _ _ _ _ _ _ 
 <a href="https://arsennyrov.github.io/kekstagram"><b>Демонстрация</b></a>
 
 <hr><b> REACT </b><hr>
