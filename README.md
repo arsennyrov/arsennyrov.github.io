@@ -50,8 +50,8 @@ cо слайдером, таймером обратного отсчета,
 <a href="https://arsennyrov.github.io/todos/"> Демонстрация  </a></b>
 <br><br>  
 10.Проект интернет-магазина на React и Redux.
-<br> <b> <a href="https://github.com/arsennyrov/internet-shop"> Проект </a> | 
-<a href="https://arsennyrov.github.io/internet-shop/"> Демонстрация  </a></b>  
+<br> <b> <a href="https://github.com/arsennyrov/internet-shop"> Проект </a> 
+
 <br><br>
 11.Компонент формы для отправки. 
 Фамилия (обязательное), Имя, Отчество - строковые,
