@@ -6,7 +6,7 @@
 <hr>
 <h2> Проекты на JAVASCRIPT </h2>
 <hr>
-1.Калькулятор на чистом JavaScript.
+1.Демонстрационный пример классического лендинга. Сверстан адаптивно на НTML и CSS с использованием jquery.
   https://arsennyrov.github.io/marketing/
 <br> <b> <a href="https://arsennyrov.github.io/marketing/"> Проект </a> | 
 <a href="https://arsennyrov.github.io/marketing/"> Демонстрация </a></b>
