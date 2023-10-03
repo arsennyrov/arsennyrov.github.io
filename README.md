@@ -7,8 +7,9 @@
 <h2> Проекты на JAVASCRIPT </h2>
 <hr>
 1.Калькулятор на чистом JavaScript.
-<br> <b> <a href="https://github.com/arsennyrov/calculator"> Проект </a> | 
-<a href="https://arsennyrov.github.io/calculator/"> Демонстрация </a></b>
+  https://arsennyrov.github.io/marketing/
+<br> <b> <a href="https://arsennyrov.github.io/marketing/"> Проект </a> | 
+<a href="https://arsennyrov.github.io/marketing/"> Демонстрация </a></b>
 <br><br>
 2.Демонстрационный пример классического лендинга. Реализован на НTML и CSS с использованием библиотеки bootstrap.
 <br> <b> <a href="https://github.com/arsennyrov/uber"> Проект </a> | 
