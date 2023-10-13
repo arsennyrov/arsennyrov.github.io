@@ -30,13 +30,13 @@ cо слайдером, таймером обратного отсчета,
 <br> <b> <a href="https://github.com/arsennyrov/kekstagram"> Проект </a> | 
 <a href="https://arsennyrov.github.io/kekstagram/"> Демонстрация  </a></b>
 <br><hr>
-<h2> Проекты на REACT </h2>
-<hr>
 6.Демонстрационный пример классического лендинга. Сверстан адаптивно на НTML и CSS с использованием jquery.
 <br> <b> <a href="https://github.com/arsennyrov/marketing/tree/main"> Проект </a> | 
 <a href="https://arsennyrov.github.io/marketing/"> Демонстрация </a></b>
 <br><br>
   
+  <h2> Проекты на REACT </h2>
+<hr>
 1.Реализован Square tree шаблон.
 Задаются через запятую до восьми целых положительных чисел. Внешний прямоугольник рекурсивно разбивается на прямоуголники, площади которых пропорциональны указанным числам. При изменении размеров окна пропорции сохраняются. 
 <br> <b> <a href="https://github.com/arsennyrov/mosaic"> Проект </a> | 
