@@ -31,29 +31,34 @@ cо слайдером, таймером обратного отсчета,
 <a href="https://arsennyrov.github.io/kekstagram/"> Демонстрация  </a></b>
 <br><hr>
 <h2> Проекты на REACT </h2>
-<hr>  
-6.Реализован Square tree шаблон.
+<hr>
+6.Демонстрационный пример классического лендинга. Сверстан адаптивно на НTML и CSS с использованием jquery.
+<br> <b> <a href="https://github.com/arsennyrov/marketing/tree/main"> Проект </a> | 
+<a href="https://arsennyrov.github.io/marketing/"> Демонстрация </a></b>
+<br><br>
+  
+1.Реализован Square tree шаблон.
 Задаются через запятую до восьми целых положительных чисел. Внешний прямоугольник рекурсивно разбивается на прямоуголники, площади которых пропорциональны указанным числам. При изменении размеров окна пропорции сохраняются. 
 <br> <b> <a href="https://github.com/arsennyrov/mosaic"> Проект </a> | 
 <a href="https://arsennyrov.github.io/mosaic/"> Демонстрация  </a></b>
 <br><br>
-7.Два текстовых контрола на Typescript, React и Mobx; описание - в README/md проекта.
+2.Два текстовых контрола на Typescript, React и Mobx; описание - в README/md проекта.
 <br> <b> <a href="https://github.com/arsennyrov/text-control"> Проект </a> | 
 <a href="https://arsennyrov.github.io/text-control/"> Демонстрация  </a></b>
 <br><br>
-8.Демонстрация различных графиков с эементами редактирования; описание - в README.md проекта.
+3.Демонстрация различных графиков с эементами редактирования; описание - в README.md проекта.
 <br> <b> <a href="https://github.com/arsennyrov/viewer-charts"> Проект </a> | 
 <a href="https://arsennyrov.github.io/viewer-charts/"> Демонстрация  </a></b>
 <br><br>
-9.Навороченный Список текущих дел - учебный пример на React с использованием библиотеки Tailwind.
+4.Навороченный Список текущих дел - учебный пример на React с использованием библиотеки Tailwind.
 <br> <b> <a href="https://github.com/arsennyrov/todos"> Проект </a> | 
 <a href="https://arsennyrov.github.io/todos/"> Демонстрация  </a></b>
 <br><br>  
-10.Проект интернет-магазина на React и Redux.
+5.Проект интернет-магазина на React и Redux.
 <br> <b> <a href="https://github.com/arsennyrov/internet-shop"> Проект </a> 
 
 <br><br>
-11.Компонент формы для отправки. 
+6.Компонент формы для отправки. 
 Фамилия (обязательное), Имя, Отчество - строковые,
 дата рождения - дата пикер.
 Страна (для примера 2 страны Россия и США) в зависимости от выбора страны вывести города (российские и американские по одному достаточно).
