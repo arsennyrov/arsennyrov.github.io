@@ -31,8 +31,8 @@ cо слайдером, таймером обратного отсчета,
 <a href="https://arsennyrov.github.io/kekstagram/"> Демонстрация  </a></b>
 <br><hr>
 6.Демонстрационный пример классического лендинга. Сверстан адаптивно на НTML и CSS с использованием jquery.
-<br> <b> <a href="https://github.com/arsennyrov/marketing/tree/main"> Проект </a> | 
-<a href="https://arsennyrov.github.io/marketing/"> Демонстрация </a></b>
+<br> <b> <a href="https://github.com/arsennyrov/wawe/tree/main"> Проект </a> | 
+<a href="https://arsennyrov.github.io/wawe/"> Демонстрация </a></b>
 <br><br>
   
   <h2> Проекты на REACT </h2>
