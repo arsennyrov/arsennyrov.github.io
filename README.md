@@ -10,27 +10,31 @@
 <br> <b> <a href="https://github.com/arsennyrov/marketing/tree/main"> Проект </a> | 
 <a href="https://arsennyrov.github.io/marketing/"> Демонстрация </a></b>
 <br><br>
-2.Демонстрационный пример классического лендинга. Реализован на НTML и CSS с использованием библиотеки bootstrap.
+2.Демонстрационный пример классического лендинга. Сверстан адаптивно на НTML и CSS с использованием jquery.
+<br> <b> <a href="https://github.com/arsennyrov/greenery/tree/main"> Проект </a> | 
+<a href="https://arsennyrov.github.io/greenery/"> Демонстрация </a></b>
+<br><br>
+3.Демонстрационный пример классического лендинга. Реализован на НTML и CSS с использованием библиотеки bootstrap.
 <br> <b> <a href="https://github.com/arsennyrov/uber"> Проект </a> | 
 <a href="https://arsennyrov.github.io/uber/"> Демонстрация  </a></b>
 <br><br>
-3.КиноМонстр - еще один демонстрационный пример по верстке на чистом HTML и CSS.
+4.КиноМонстр - еще один демонстрационный пример по верстке на чистом HTML и CSS.
 <br> <b> <a href="https://github.com/arsennyrov/kino-mon"> Проект </a> | 
 <a href="https://arsennyrov.github.io/kino-mon/"> Демонстрация  </a></b>
 <br><br>
-4.Йога - классический лендинг на JavaScript
+5.Йога - классический лендинг на JavaScript
 cо слайдером, таймером обратного отсчета,
 работой с формами и кастомным калькулятором.
 <br> <b> <a href="https://github.com/arsennyrov/yoga"> Проект </a> | 
 <a href="https://arsennyrov.github.io/yoga/"> Демонстрация  </a></b>
 <br><br>
-5.Кекстаграм - просмотр и обработка фотографий, реализован на HTML+CSS и JavaScript.
+6.Кекстаграм - просмотр и обработка фотографий, реализован на HTML+CSS и JavaScript.
 Данные загружаются с сервера через AJAX, а также со своего диска средствами JavaScript. 
 Реализовано применение различных эффектов к фотографиям. Используются регулярные выражения.
 <br> <b> <a href="https://github.com/arsennyrov/kekstagram"> Проект </a> | 
 <a href="https://arsennyrov.github.io/kekstagram/"> Демонстрация  </a></b>
 <br><hr>
-6.Демонстрационный пример классического лендинга. Сверстан адаптивно на НTML и CSS с использованием jquery.
+7.Демонстрационный пример классического лендинга. Сверстан адаптивно на НTML и CSS с использованием jquery.
 <br> <b> <a href="https://github.com/arsennyrov/wawe/tree/main"> Проект </a> | 
 <a href="https://arsennyrov.github.io/wawe/"> Демонстрация </a></b>
 <br><br>
