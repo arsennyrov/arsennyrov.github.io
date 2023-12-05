@@ -19,7 +19,7 @@
 <br> <b> <a href="https://github.com/arsennyrov/uber"> Проект </a> | 
 <a href="https://arsennyrov.github.io/uber/"> Демонстрация  </a></b>
 <br><br>
-4.КиноМонстр - еще один демонстрационный пример по верстке на чистом HTML и SASS.
+4.КиноМонстр - еще один демонстрационный пример по верстке на чистом HTML и CSS.
 <br> <b> <a href="https://github.com/arsennyrov/kino-mon"> Проект </a> | 
 <a href="https://arsennyrov.github.io/kino-mon/"> Демонстрация  </a></b>
 <br><br>
@@ -29,7 +29,7 @@ cо слайдером, таймером обратного отсчета,
 <br> <b> <a href="https://github.com/arsennyrov/yoga"> Проект </a> | 
 <a href="https://arsennyrov.github.io/yoga/"> Демонстрация  </a></b>
 <br><br>
-6.Демонстрационный пример классического лендинга. Сверстан на НTML и CSS с использованием сборки на gulp.
+6.Демонстрационный пример классического лендинга. Сверстан на НTML и SASS с использованием сборки на gulp.
 <br> <b> <a href="https://github.com/arsennyrov/desire/tree/main"> Проект </a> | 
 <a href="https://arsennyrov.github.io/desire/"> Демонстрация  </a></b>
 <br><hr>
