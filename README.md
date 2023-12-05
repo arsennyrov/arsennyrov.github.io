@@ -32,7 +32,7 @@ cо слайдером, таймером обратного отсчета,
 Данные загружаются с сервера через AJAX, а также со своего диска средствами JavaScript. 
 Реализовано применение различных эффектов к фотографиям. Используются регулярные выражения.
 <br> <b> <a href="https://github.com/arsennyrov/kekstagram"> Проект </a> | 
-<a href="https://arsennyrov.github.io/kekstagram/"> Демонстрация  </a></b>
+<a href="https://arsennyrov.github.io/desire/"> Демонстрация  </a></b>
 <br><hr>
 7.Демонстрационный пример классического лендинга. Сверстан адаптивно на НTML и CSS с использованием jquery.
 <br> <b> <a href="https://github.com/arsennyrov/wawe/tree/main"> Проект </a> | 
