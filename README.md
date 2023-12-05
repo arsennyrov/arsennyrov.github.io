@@ -19,7 +19,7 @@
 <br> <b> <a href="https://github.com/arsennyrov/uber"> Проект </a> | 
 <a href="https://arsennyrov.github.io/uber/"> Демонстрация  </a></b>
 <br><br>
-4.КиноМонстр - еще один демонстрационный пример по верстке на чистом HTML и CSS.
+4.КиноМонстр - еще один демонстрационный пример по верстке на чистом HTML и SASS.
 <br> <b> <a href="https://github.com/arsennyrov/kino-mon"> Проект </a> | 
 <a href="https://arsennyrov.github.io/kino-mon/"> Демонстрация  </a></b>
 <br><br>
