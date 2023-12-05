@@ -15,7 +15,7 @@
 <br> <b> <a href="https://github.com/arsennyrov/greenery/tree/main"> Проект </a> | 
 <a href="https://arsennyrov.github.io/greenery/"> Демонстрация </a></b>
 <br><br>
-3.Демонстрационный пример классического лендинга. Реализован на НTML и CSS с использованием библиотеки bootstrap.
+3.Демонстрационный пример классического лендинга. Реализован на НTML и SASS с использованием библиотеки bootstrap.
 <br> <b> <a href="https://github.com/arsennyrov/uber"> Проект </a> | 
 <a href="https://arsennyrov.github.io/uber/"> Демонстрация  </a></b>
 <br><br>
