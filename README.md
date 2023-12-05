@@ -29,8 +29,7 @@ cо слайдером, таймером обратного отсчета,
 <br> <b> <a href="https://github.com/arsennyrov/yoga"> Проект </a> | 
 <a href="https://arsennyrov.github.io/yoga/"> Демонстрация  </a></b>
 <br><br>
-6.Демонстрационный пример классического лендинга. Сверстан адаптивно на НTML и CSS с использованием 
-сборки на gulp.
+6.Демонстрационный пример классического лендинга. Сверстан на НTML и CSS с использованием сборки на gulp.
 <br> <b> <a href="https://github.com/arsennyrov/desire/tree/main"> Проект </a> | 
 <a href="https://arsennyrov.github.io/desire/"> Демонстрация  </a></b>
 <br><hr>
