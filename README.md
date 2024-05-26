@@ -7,15 +7,16 @@
 <hr>
 <h2> Проекты на JAVASCRIPT </h2>
 <hr>
-1.Демонстрационный пример классического лендинга. Сверстан адаптивно на НTML и CSS с использованием jquery.
+1.Демонстрационный пример классического лендинга "MARKETING". Сверстан адаптивно на НTML и CSS с использованием jquery.
 <br> <b> <a href="https://github.com/arsennyrov/marketing/tree/main"> Проект </a> | 
 <a href="https://arsennyrov.github.io/marketing/"> Демонстрация </a></b>
 <br><br>
-2.Демонстрационный пример классического лендинга. Сверстан адаптивно на НTML и CSS с использованием jquery.
+2.Демонстрационный пример классического лендинга "Awesome design Best Furniture For Your Interior.". 
+  Сверстан адаптивно на НTML и CSS с использованием jquery.
 <br> <b> <a href="https://github.com/arsennyrov/greenery/tree/main"> Проект </a> | 
 <a href="https://arsennyrov.github.io/greenery/"> Демонстрация </a></b>
 <br><br>
-3.Демонстрационный пример классического лендинга. Реализован на НTML и SASS с использованием библиотеки bootstrap.
+3.Демонстрационный пример классического лендинга для компании UBER. Реализован на НTML и SASS с использованием библиотеки bootstrap.
 <br> <b> <a href="https://github.com/arsennyrov/uber"> Проект </a> | 
 <a href="https://arsennyrov.github.io/uber/"> Демонстрация  </a></b>
 <br><br>
@@ -29,11 +30,11 @@ cо слайдером, таймером обратного отсчета,
 <br> <b> <a href="https://github.com/arsennyrov/yoga"> Проект </a> | 
 <a href="https://arsennyrov.github.io/yoga/"> Демонстрация  </a></b>
 <br><br>
-6.Демонстрационный пример классического лендинга. Сверстан на НTML и SASS с использованием сборки на gulp.
+6.Демонстрационный пример классического лендинга для продажи коллекции мебели. Сверстан на НTML и SASS с использованием сборки на gulp.
 <br> <b> <a href="https://github.com/arsennyrov/desire/tree/main"> Проект </a> | 
 <a href="https://arsennyrov.github.io/desire/"> Демонстрация  </a></b>
 <br><hr>
-7.Демонстрационный пример классического лендинга. Сверстан адаптивно на НTML и CSS с использованием jquery.
+7.Демонстрационный пример классического лендинга о серфинге "WAWE". Сверстан адаптивно на НTML и CSS с использованием jquery.
 <br> <b> <a href="https://github.com/arsennyrov/wawe/tree/main"> Проект </a> | 
 <a href="https://arsennyrov.github.io/wawe/"> Демонстрация </a></b>
 <br><br>
